@@ -8,8 +8,7 @@
 
 ## Описание
 
-`download_images.sh` - Чтобы использовать этот скрипт, вам нужно сделать его исполняемым командой `chmod +x download_images.sh` и запустить `./download_images.sh`.
-
-`delete_images.sh` - Чтобы использовать этот скрипт, вам нужно сделать его исполняемым командой `chmod +x delete_images.sh` и запустить `./delete_images.sh`.
+- `download_images.sh` - Чтобы использовать этот скрипт, вам нужно сделать его исполняемым командой `chmod +x download_images.sh` и запустить `./download_images.sh`.
+- `delete_images.sh` - Чтобы использовать этот скрипт, вам нужно сделать его исполняемым командой `chmod +x delete_images.sh` и запустить `./delete_images.sh`.
 
 
